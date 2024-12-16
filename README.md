@@ -54,7 +54,7 @@ Once downloaded, extract the game files to a location of your choice on your com
 
 ## 🖥️ **Running the Game**
 
-To start playing **For the Survivor**, simply double-click on the `ForTheSurvivor.exe` file. This will launch the game, and you can begin playing immediately.
+To start playing **For the Survivor**, simply double-click on the `SURVIVOR.exe` file. This will launch the game, and you can begin playing immediately.
 
 ---
 
