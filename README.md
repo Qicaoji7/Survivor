@@ -1,7 +1,7 @@
 
 # 🎮 **For the Survivor**
 
-**"For the Survivor"** is a rogue-like survival game developed with Unity and C#. The game is designed to deliver a challenging yet engaging experience where players must survive endless waves of enemies. With intuitive controls, dynamic weapon upgrades, and a retro pixel-art style, it offers a fresh and exciting take on the popular survival genre. Perfect for those seeking a thrilling survival challenge, **"For the Survivor"** is easy to learn, but hard to master.
+**"Survivor"** is a rogue-like survival game developed with Unity and C#. The game is designed to deliver a challenging yet engaging experience where players must survive endless waves of enemies. With intuitive controls, dynamic weapon upgrades, and a retro pixel-art style, it offers a fresh and exciting take on the popular survival genre. Perfect for those seeking a thrilling survival challenge, **"For the Survivor"** is easy to learn, but hard to master.
 
 ## Table of Contents
 
